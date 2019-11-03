@@ -1,9 +1,6 @@
 
 class CardGame
 
- # attr_reader missing
- # initialize def missing
-
 
 
   def checkforAce(card)

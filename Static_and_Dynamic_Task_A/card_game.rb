@@ -6,12 +6,6 @@
 class CardGame
 
 
-  attr_reader :name
-
-  def initialize(name)
-    @name = name
-  end
-
 
   def check_for_ace(card)
     if card.value == 1
